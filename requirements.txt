@@ -1,0 +1,6 @@
+toml==0.10.1
+numpy==1.19.2
+open3d==0.13.0
+opencv-python==4.5.3.56
+pyrealsense2==2.49.0.3474
+click==7.1.2
